@@ -1,10 +1,10 @@
 # The-wave-disturbance-data-and-multihull-data
 # Data and Results for Anti-Pitching Control Study
 
-This repository contains the MATLAB `.mat` data files used in the paper **“[Your Paper Title]”**. The data files support the simulation results for various anti-pitching control strategies on a multihull ship model.
+This repository contains the MATLAB `.mat` data files used in the paper **“Efficient Predictive Anti-Pitching Control of High-Speed Multihull Ships Based on Sparse Spectrum Gaussian Process Regression”**. The data files support the simulation results for various anti-pitching control strategies on a multihull ship model.
 
 ## Files:
-1. **wave.mat** - Contains wave disturbance force and moment data used in the simulation.
+1. **Wave.mat** - Contains wave disturbance force and moment data used in the simulation.
 2. **SSGP_PTC_MPC.mat** - Contains simulation results for the multihull using the SSGPR-based PTC MPC control strategy.
 3. **No_Controller.mat** - Contains simulation results for the multihull without any control.
 
